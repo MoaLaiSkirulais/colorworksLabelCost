@@ -13,7 +13,7 @@
       "urls": [
         "colorworksLabelCost/chunk-362AKQQN.js",
         "/chunk-DW6K7BMJ.js",
-        "/favicon.ico",
+        "colorworksLabelCost/favicon.ico",
         "/index.html",
         "/main-QCOLT47U.js",
         "/manifest.webmanifest",
@@ -30,7 +30,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/epson-transparent_1.png",
+        "colorworksLabelCost/assets/epson-transparent_1.png",
         "/assets/mini/af2030.png",
         "/assets/mini/aqua.png",
         "/assets/mini/bernier.png",
@@ -80,7 +80,7 @@
     "/assets/mini/tornado.png": "5213179389e7cf3e65eba7db3d48fd00399e6935",
     "/chunk-362AKQQN.js": "d95450744a77eaa59aa4bb273642ccfea8573490",
     "/chunk-DW6K7BMJ.js": "098c0a448385bc22b1f2260b344d7d7fa7272517",
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "colorworksLabelCost/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
